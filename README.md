@@ -3,3 +3,4 @@
 
 <p>DALY BMS R25T-IE02 Li-ion 16S 60V 40A image : </p>
 <img src=https://github.com/PIYUSH-CHOUDHARY-04/DALY-smart-BMS-UART-driver/blob/main/Images/DALY_BMS_img0.jpg width="400" />
+<img src=https://github.com/PIYUSH-CHOUDHARY-04/DALY-smart-BMS-UART-driver/blob/main/Images/DALY_BMS_img1.jpg width="400" />
